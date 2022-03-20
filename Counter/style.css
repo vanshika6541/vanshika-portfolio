@@ -1,0 +1,34 @@
+body,html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#main{
+    width: 50vw;
+    height: 40vh;
+    background-color:lightblue;
+    margin: 70px 50px 100px 350px;
+  
+}
+
+#add{
+    margin-left: 330px;
+    margin-top: 30px;
+}
+
+
+#count{
+    margin-left: 333px;
+}
+
+#sub{
+    margin-left: 333px;
+}
+
+#reset{
+    margin: 24px;
+    padding: 2px;
+    margin-left: 305px;
+
+}
